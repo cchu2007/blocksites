@@ -2,6 +2,41 @@
 # Upload to update: https://github.com/cchu2007/blocksites
 # Content added to this list has been manually verified, and is updated irregularly
 
+
+# Added April 26, 2023 for AI Chat Sites
+0.0.0.0 app.writesonic.com
+0.0.0.0 you.com
+0.0.0.0 www.jasper.ai
+0.0.0.0 myanima.ai
+0.0.0.0 bard.google.com
+0.0.0.0 www.netomi.com
+0.0.0.0 www.zendesk.com
+0.0.0.0 www.csml.dev
+0.0.0.0 www.drift.com
+0.0.0.0 www.salesforce.com
+0.0.0.0 www.uniphore.com
+0.0.0.0 www.liveperson.com
+0.0.0.0 manychat.com
+0.0.0.0 kore.ai
+0.0.0.0 www.intercom.com
+0.0.0.0 replika.com
+0.0.0.0 chat.colossalai.org
+0.0.0.0 www.tidio.com
+0.0.0.0 www.ada.cx
+0.0.0.0 www.wati.io
+0.0.0.0 customers.ai
+0.0.0.0 paradox.ai
+0.0.0.0 www.infeedo.ai
+0.0.0.0 kasisto.com
+0.0.0.0 medwhat.com
+0.0.0.0 elomia.com
+0.0.0.0 www.kuki.ai
+0.0.0.0 rose.ai
+0.0.0.0 rightclick.ai
+0.0.0.0 poncho.is
+0.0.0.0 insomnobot3000.com
+0.0.0.0 www.ddxrx.com
+
 # Added April 10, 2023
 0.0.0.0 www.bing.com
 0.0.0.0 bing.com

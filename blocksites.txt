@@ -2,6 +2,9 @@
 # Upload to update: https://github.com/cchu2007/blocksites
 # Content added to this list has been manually verified, and is updated irregularly
 
+# Added May 1, 2023 
+0.0.0.0 www.futuretools.io
+
 # Added April 28, 2023 
 0.0.0.0 monkeyfarm.io
 0.0.0.0 monkeyfarm.io/monkey-farm

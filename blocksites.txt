@@ -2,6 +2,11 @@
 # Upload to update: https://github.com/cchu2007/blocksites
 # Content added to this list has been manually verified, and is updated irregularly
 
+# Added May 4, 2023 
+0.0.0.0 littlealchemy2.com
+0.0.0.0 littlealchemy.com
+0.0.0.0 giphy.com
+
 # Added May 1, 2023 
 0.0.0.0 www.futuretools.io
 

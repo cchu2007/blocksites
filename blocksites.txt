@@ -2,6 +2,10 @@
 # Upload to update: https://github.com/cchu2007/blocksites
 # Content added to this list has been manually verified, and is updated irregularly
 
+# Added May 9, 2023 
+0.0.0.0 basketbros.io
+0.0.0.0 garticphone.com
+
 # Added May 4, 2023 
 0.0.0.0 littlealchemy2.com
 0.0.0.0 littlealchemy.com

@@ -2,6 +2,9 @@
 # Upload to update: https://github.com/cchu2007/blocksites
 # Content added to this list has been manually verified, and is updated irregularly
 
+# Added November 8, 2023
+0.0.0.0 nitrotype.com
+
 # Added November 6, 2023
 0.0.0.0 edpuzzle.hs.vc
 

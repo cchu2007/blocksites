@@ -4,6 +4,7 @@
 
 # Added December 06, 2023
 0.0.0.0 webcamtoy.com
+0.0.0.0 www.webcamtoy.com
 
 # Added November 13, 2023
 0.0.0.0 talkai.info/chat/

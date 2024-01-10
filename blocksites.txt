@@ -2,6 +2,16 @@
 # Upload to update: https://github.com/cchu2007/blocksites
 # Content added to this list has been manually verified, and is updated irregularly
 
+# Added January 10, 2024 
+0.0.0.0 stubhub.com
+0.0.0.0 www.stubhub.com
+0.0.0.0 newegg.com
+0.0.0.0 www.newegg.com
+0.0.0.0 pcpartpicker.com
+0.0.0.0 www.pcpartpicker.com
+0.0.0.0 ekwb.com
+0.0.0.0 www.ekwb.com
+
 # Added December 06, 2023
 0.0.0.0 webcamtoy.com
 0.0.0.0 www.webcamtoy.com

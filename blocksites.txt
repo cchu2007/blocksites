@@ -11,6 +11,8 @@
 0.0.0.0 www.pcpartpicker.com
 0.0.0.0 ekwb.com
 0.0.0.0 www.ekwb.com
+0.0.0.0 codenames.game
+0.0.0.0 www.codenames.game
 
 # Added December 06, 2023
 0.0.0.0 webcamtoy.com

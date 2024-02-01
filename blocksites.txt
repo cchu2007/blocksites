@@ -2,6 +2,11 @@
 # Upload to update: https://github.com/cchu2007/blocksites
 # Content added to this list has been manually verified, and is updated irregularly
 
+
+# Added February 01, 2024 
+0.0.0.0 github.io
+0.0.0.0 www.github.io
+
 # Added January 10, 2024 
 0.0.0.0 stubhub.com
 0.0.0.0 www.stubhub.com

@@ -2,6 +2,62 @@
 # Upload to update: https://github.com/cchu2007/blocksites
 # Content added to this list has been manually verified, and is updated irregularly
 
+# Added March 07, 2024 
+0.0.0.0 connectionsgame.io
+0.0.0.0 www.connectionsgame.io
+0.0.0.0 slopegame.online
+0.0.0.0 www.slopegame.online
+0.0.0.0 pizzatower.io
+0.0.0.0 www.pizzatower.io
+0.0.0.0 slicemaster.io
+0.0.0.0 www.slicemaster.io
+0.0.0.0 minigolfclub.io
+0.0.0.0 www.minigolfclub.io
+0.0.0.0 poki.com
+0.0.0.0 www.poki.com
+0.0.0.0 basketballstarsunblocked.io
+0.0.0.0 www.basketballstarsunblocked.io
+0.0.0.0 subwaysurf.io
+0.0.0.0 www.subwaysurf.io
+0.0.0.0 amongus2.io
+0.0.0.0 www.amongus2.io
+0.0.0.0 play-games.com
+0.0.0.0 www.play-games.com
+0.0.0.0 krunker.io
+0.0.0.0 www.krunker.io
+0.0.0.0 wooting.io
+0.0.0.0 www.wooting.io
+0.0.0.0 yohoho.io
+0.0.0.0 www.yohoho.io
+0.0.0.0 gidd.io
+0.0.0.0 www.gidd.io
+0.0.0.0 polkadotgame.com
+0.0.0.0 www.polkadotgame.com
+0.0.0.0 aimtrainer.io
+0.0.0.0 www.aimtrainer.io
+0.0.0.0 gettingoverit.io
+0.0.0.0 www.gettingoverit.io
+0.0.0.0 drivingmad.io
+0.0.0.0 www.drivingmad.io
+0.0.0.0 kevin.games
+0.0.0.0 www.kevin.games
+0.0.0.0 road.io
+0.0.0.0 www.road.io
+0.0.0.0 byos.io
+0.0.0.0 www.byos.io
+0.0.0.0 suikagame.io
+0.0.0.0 www.suikagame.io
+0.0.0.0 slither.io
+0.0.0.0 www.slither.io
+0.0.0.0 voodoo.io
+0.0.0.0 www.voodoo.io
+0.0.0.0 gitlab.io
+0.0.0.0 www.gitlab.io
+0.0.0.0 doodlecricket.io
+0.0.0.0 www.doodlecricket.io
+0.0.0.0 bflix.sx
+0.0.0.0 www.bflix.sx
+
 # Added March 06, 2024 
 0.0.0.0 bitlifegame.org
 0.0.0.0 www.bitlifegame.org

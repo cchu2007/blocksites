@@ -358,6 +358,7 @@
 0.0.0.0 www.mathsisfun.com
 
 # Added March 06, 2023
+0.0.0.0 www.openai.com
 0.0.0.0 openai.com
 0.0.0.0 chat.openai.com
 0.0.0.0 www.opera.com

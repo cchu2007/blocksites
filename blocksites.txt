@@ -2,6 +2,10 @@
 # Upload to update: https://github.com/cchu2007/blocksites
 # Content added to this list has been manually verified, and is updated irregularly
 
+# Added May 07, 2024 
+0.0.0.0 kour.io
+0.0.0.0 www.kour.io
+
 # Added May 01, 2024 
 0.0.0.0 dashnet.org
 0.0.0.0 www.dashnet.org

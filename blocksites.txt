@@ -47,6 +47,16 @@
 0.0.0.0 www.gamepix.com
 0.0.0.0 jopi.com
 0.0.0.0 www.jopi.com
+0.0.0.0 funnygames.org
+0.0.0.0 www.funnygames.org
+0.0.0.0 turtlediary.com
+0.0.0.0 www.turtlediary.com
+0.0.0.0 mathplayground.com
+0.0.0.0 www.mathplayground.com
+0.0.0.0 fun-games.io
+0.0.0.0 www.fun-games.io
+0.0.0.0 playhop.com
+0.0.0.0 www.playhop.com
 
 # Added May 07, 2024 
 0.0.0.0 kour.io

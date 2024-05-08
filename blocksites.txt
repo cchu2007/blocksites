@@ -2,6 +2,52 @@
 # Upload to update: https://github.com/cchu2007/blocksites
 # Content added to this list has been manually verified, and is updated irregularly
 
+# Added May 08, 2024 
+0.0.0.0 iogames.onl
+0.0.0.0 www.iogames.onl
+0.0.0.0 iogamesio.org
+0.0.0.0 www.iogamesio.org
+0.0.0.0 symbaloo.com
+0.0.0.0 www.symbaloo.com
+0.0.0.0 iogames.games
+0.0.0.0 www.iogames.games
+0.0.0.0 iogames.space
+0.0.0.0 www.iogames.space
+0.0.0.0 io.games
+0.0.0.0 www.io.games
+0.0.0.0 desura.com
+0.0.0.0 www.desura.com
+0.0.0.0 sites.google.com/view/iogames
+0.0.0.0 sites.google.com/view/classroom66
+0.0.0.0 kizi.com
+0.0.0.0 www.kizi.com
+0.0.0.0 itch.io
+0.0.0.0 www.itch.io
+0.0.0.0 papergames.io
+0.0.0.0 www.papergames.io
+0.0.0.0 shellshock.io
+0.0.0.0 www.shellshock.io
+0.0.0.0 fandom.com
+0.0.0.0 www.fandom.com
+0.0.0.0 ioi.dk
+0.0.0.0 www.ioi.dk
+0.0.0.0 iogames.top
+0.0.0.0 www.iogames.top
+0.0.0.0 pockettactics.com
+0.0.0.0 www.pockettactics.com
+0.0.0.0 onlinegames.io
+0.0.0.0 www.onlinegames.io
+0.0.0.0 iogames.fun
+0.0.0.0 www.iogames.fun
+0.0.0.0 silvergames.com
+0.0.0.0 www.silvergames.com
+0.0.0.0 agame.com
+0.0.0.0 www.agame.com
+0.0.0.0 gamepix.com
+0.0.0.0 www.gamepix.com
+0.0.0.0 jopi.com
+0.0.0.0 www.jopi.com
+
 # Added May 07, 2024 
 0.0.0.0 kour.io
 0.0.0.0 www.kour.io

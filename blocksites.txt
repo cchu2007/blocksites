@@ -97,8 +97,14 @@
 0.0.0.0 www.kour.io
 
 # Added May 01, 2024 
-0.0.0.0 dashnet.org
-0.0.0.0 www.dashnet.org
+0.0.0.0 orteil.dashnet.org
+0.0.0.0 www.cookieclicker.com
+0.0.0.0 cookie-clicker2.com
+0.0.0.0 cookieclickercity.com
+0.0.0.0 cookieclicker.eu
+0.0.0.0 cookieclicker2.io
+0.0.0.0 www.roblox.com
+0.0.0.0 eli-schwartz.github.io
 
 # Added March 07, 2024 
 0.0.0.0 connectionsgame.io

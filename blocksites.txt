@@ -2,6 +2,24 @@
 # Upload to update: https://github.com/cchu2007/blocksites
 # Content added to this list has been manually verified, and is updated irregularly
 
+# Added May 10, 2024 
+0.0.0.0 pbskids.org/games
+0.0.0.0 www.msn.com/play?ocid=cgbinghp
+0.0.0.0 www.cartoonnetworkhq.com/games
+0.0.0.0 www.arkadium.com/free-online-games/
+0.0.0.0 www.numuki.com
+0.0.0.0 numuki.com
+0.0.0.0 pogo.com
+0.0.0.0 www.pogo.com
+0.0.0.0 www.construct.net
+0.0.0.0 construct.net
+0.0.0.0 jackboxgames.com
+0.0.0.0 www.jackboxgames.com
+0.0.0.0 abcya.com
+0.0.0.0 www.abcya.com
+0.0.0.0 ea.com
+0.0.0.0 www.ea.com
+
 # Added May 08, 2024 
 0.0.0.0 iogames.onl
 0.0.0.0 www.iogames.onl

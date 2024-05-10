@@ -19,6 +19,22 @@
 0.0.0.0 www.abcya.com
 0.0.0.0 ea.com
 0.0.0.0 www.ea.com
+0.0.0.0 aol.com/games
+0.0.0.0 www.aol.com/games
+0.0.0.0 addictinggames.com
+0.0.0.0 www.addictinggames.com
+0.0.0.0 y8.com
+0.0.0.0 www.y8.com
+0.0.0.0 games.greatergood.com
+0.0.0.0 gameshownetwork.com
+0.0.0.0 www.gameshownetwork.com
+0.0.0.0 games.metv.com
+0.0.0.0 sites.google.com/site/classroom6x
+0.0.0.0 www.hoodamath.com
+0.0.0.0 fafgames.github.io
+0.0.0.0 www.spatial.io
+0.0.0.0 unblocked-games.s3.amazonaws.com
+
 
 # Added May 08, 2024 
 0.0.0.0 iogames.onl
@@ -187,8 +203,6 @@
 0.0.0.0 www.heardleunlimited.io
 0.0.0.0 attackmove.io
 0.0.0.0 www.attackmove.io
-0.0.0.0 github.io
-0.0.0.0 www.github.io
 0.0.0.0 dinosaur-game.io
 0.0.0.0 www.dinosaur-game.io
 0.0.0.0 peanut-app.io
@@ -271,8 +285,7 @@
 0.0.0.0 www.hole-io.com
 
 # Added February 01, 2024 
-0.0.0.0 github.io
-0.0.0.0 www.github.io
+
 
 # Added January 10, 2024 
 0.0.0.0 stubhub.com
@@ -380,8 +393,6 @@
 0.0.0.0 run3.io
 
 # Added March 27, 2023
-# The IP address below is based on nslookup sites.google.com
-0.0.0.0 142.251.32.14
 0.0.0.0 sites.google.com/view/games-unblockedd
 0.0.0.0 sites.google.com/site/tyronesgameshack
 0.0.0.0 sites.google.com/site/tyronesgamesez
@@ -409,7 +420,6 @@
 0.0.0.0 f-droid.org
 0.0.0.0 www.free-auto-clicker.com
 0.0.0.0 ogautoclicker.com
-0.0.0.0 sites.google.com
 
 # Added March 09, 2023
 0.0.0.0 gx.games
@@ -432,7 +442,6 @@
 0.0.0.0 sites.google.com/site/tyronesgameshack
 0.0.0.0 mirror.xyz
 0.0.0.0 sites.google.com/site/tyroneunblockedgame
-0.0.0.0 sites.google.com/site
 0.0.0.0 music.youtube.com
 0.0.0.0 slopegame.io
 0.0.0.0 www.chess.com
@@ -448,80 +457,80 @@
 
 # Added February 09, 2023
 0.0.0.0 github.com
-www.bazoocam.org
-www.bladez-io.com
-www.boxbe.com
-www.brave.com
-www.buzzfeed.com
-www.camsurf.com
-www.cartoonnetworkme.com
-www.Chathub.cam
-www.Chathub.chat
-www.chatrandom.com
-www.Chatroulette.com
-www.chatspin.com
-www.coolmathgames.com
-www.discord.com
-www.EmeraldChat.com
-www.FaceFlow.com
-www.fruzo.com
-www.gambledude.com
-www.gartic.io
-www.groupon.com
-www.HIYAK.com
-www.iMeetZu.com
-www.mrdoob.com
-www.Omegle.com
-www.omegle.onl
-www.PalTalk.com
-www.paperio10.com
-www.sky.shiiyu.moe
-www.snapchat.com
-www.soundcloud.com
-www.tiktok.com
-www.Tinychat.com
-www.trimps.github.io
-www.twitter.com
-www.videoleapapp.com
-www.wikia.com
-www.yandex.com
-www.fandom.com
-bazoocam.org
-bladez-io.com
-boxbe.com
-brave.com
-buzzfeed.com
-camsurf.com
-cartoonnetworkme.com
-Chathub.cam
-Chathub.chat
-chatrandom.com
-Chatroulette.com
-chatspin.com
-coolmathgames.com
-discord.com
-EmeraldChat.com
-FaceFlow.com
-fruzo.com
-gambledude.com
-gartic.io
-groupon.com
-HIYAK.com
-iMeetZu.com
-mrdoob.com
-Omegle.com
-omegle.onl
-PalTalk.com
-paperio10.com
-sites.google.com/view/games-unblockedd
-sky.shiiyu.moe
-snapchat.com
-soundcloud.com
-tiktok.com
-Tinychat.com
-trimps.github.io
-twitter.com
-videoleapapp.com
-wikia.com
-yandex.com
-fandom.com
+0.0.0.0 www.bazoocam.org
+0.0.0.0 www.bladez-io.com
+0.0.0.0 www.boxbe.com
+0.0.0.0 www.brave.com
+0.0.0.0 www.buzzfeed.com
+0.0.0.0 www.camsurf.com
+0.0.0.0 www.cartoonnetworkme.com
+0.0.0.0 www.Chathub.cam
+0.0.0.0 www.Chathub.chat
+0.0.0.0 www.chatrandom.com
+0.0.0.0 www.Chatroulette.com
+0.0.0.0 www.chatspin.com
+0.0.0.0 www.coolmathgames.com
+0.0.0.0 www.discord.com
+0.0.0.0 www.EmeraldChat.com
+0.0.0.0 www.FaceFlow.com
+0.0.0.0 www.fruzo.com
+0.0.0.0 www.gambledude.com
+0.0.0.0 www.gartic.io
+0.0.0.0 www.groupon.com
+0.0.0.0 www.HIYAK.com
+0.0.0.0 www.iMeetZu.com
+0.0.0.0 www.mrdoob.com
+0.0.0.0 www.Omegle.com
+0.0.0.0 www.omegle.onl
+0.0.0.0 www.PalTalk.com
+0.0.0.0 www.paperio10.com
+0.0.0.0 www.sky.shiiyu.moe
+0.0.0.0 www.snapchat.com
+0.0.0.0 www.soundcloud.com
+0.0.0.0 www.tiktok.com
+0.0.0.0 www.Tinychat.com
+0.0.0.0 trimps.github.io
+0.0.0.0 www.twitter.com
+0.0.0.0 www.videoleapapp.com
+0.0.0.0 www.wikia.com
+0.0.0.0 www.yandex.com
+0.0.0.0 www.fandom.com
+0.0.0.0 bazoocam.org
+0.0.0.0 bladez-io.com
+0.0.0.0 boxbe.com
+0.0.0.0 brave.com
+0.0.0.0 buzzfeed.com
+0.0.0.0 camsurf.com
+0.0.0.0 cartoonnetworkme.com
+0.0.0.0 Chathub.cam
+0.0.0.0 Chathub.chat
+0.0.0.0 chatrandom.com
+0.0.0.0 Chatroulette.com
+0.0.0.0 chatspin.com
+0.0.0.0 coolmathgames.com
+0.0.0.0 discord.com
+0.0.0.0 EmeraldChat.com
+0.0.0.0 FaceFlow.com
+0.0.0.0 fruzo.com
+0.0.0.0 gambledude.com
+0.0.0.0 gartic.io
+0.0.0.0 groupon.com
+0.0.0.0 HIYAK.com
+0.0.0.0 iMeetZu.com
+0.0.0.0 mrdoob.com
+0.0.0.0 Omegle.com
+0.0.0.0 omegle.onl
+0.0.0.0 PalTalk.com
+0.0.0.0 paperio10.com
+0.0.0.0 sites.google.com/view/games-unblockedd
+0.0.0.0 sky.shiiyu.moe
+0.0.0.0 snapchat.com
+0.0.0.0 soundcloud.com
+0.0.0.0 tiktok.com
+0.0.0.0 Tinychat.com
+0.0.0.0 trimps.github.io
+0.0.0.0 twitter.com
+0.0.0.0 videoleapapp.com
+0.0.0.0 wikia.com
+0.0.0.0 yandex.com
+0.0.0.0 fandom.com

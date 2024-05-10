@@ -101,6 +101,7 @@
 0.0.0.0 www.cookieclicker.com
 0.0.0.0 cookie-clicker2.com
 0.0.0.0 cookieclickercity.com
+0.0.0.0 www.cookieclickercity.com
 0.0.0.0 cookieclicker.eu
 0.0.0.0 cookieclicker2.io
 0.0.0.0 www.roblox.com
@@ -339,7 +340,6 @@
 0.0.0.0 you.com
 0.0.0.0 www.jasper.ai
 0.0.0.0 myanima.ai
-0.0.0.0 bard.google.com
 0.0.0.0 www.netomi.com
 0.0.0.0 www.zendesk.com
 0.0.0.0 www.csml.dev

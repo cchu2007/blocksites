@@ -2,6 +2,12 @@
 # Upload to update: https://github.com/cchu2007/blocksites
 # Content added to this list has been manually verified, and is updated irregularly
 
+# Added May 23, 2024 
+0.0.0.0 character.ai
+0.0.0.0 www.getmerlin.in
+0.0.0.0 lichess.org
+0.0.0.0 yeezy.com
+
 # Added May 21, 2024 
 0.0.0.0 www.twitch.tv
 

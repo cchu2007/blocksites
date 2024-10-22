@@ -2,6 +2,11 @@
 # Upload to update: https://github.com/cchu2007/blocksites
 # Content added to this list has been manually verified, and is updated irregularly
 
+# Added Oct 23, 2024 
+0.0.0.0 www.247freepoker.com
+0.0.0.0 subwaysurfersgame.io
+0.0.0.0 soundbuttonsworld.com
+
 # Added May 23, 2024 
 0.0.0.0 character.ai
 0.0.0.0 www.getmerlin.in

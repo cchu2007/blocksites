@@ -5,6 +5,7 @@
 # Added Dec 11, 2024 
 0.0.0.0 chatgpt.com
 0.0.0.0 ww1.Scribi.io
+0.0.0.0 Skribbl.io
 
 # Added Oct 23, 2024 
 0.0.0.0 www.247freepoker.com

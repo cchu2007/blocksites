@@ -2,6 +2,10 @@
 # Upload to update: https://github.com/cchu2007/blocksites
 # Content added to this list has been manually verified, and is updated irregularly
 
+# Added Dec 11, 2024 
+0.0.0.0 chatgpt.com
+0.0.0.0 Scribi.io
+
 # Added Oct 23, 2024 
 0.0.0.0 www.247freepoker.com
 0.0.0.0 subwaysurfersgame.io

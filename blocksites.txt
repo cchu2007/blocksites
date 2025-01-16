@@ -2,6 +2,19 @@
 # Upload to update: https://github.com/cchu2007/blocksites
 # Content added to this list has been manually verified, and is updated irregularly
 
+# Added Jan 16, 2025
+0.0.0.0 1games.io
+0.0.0.0 homestuck.com
+0.0.0.0 chillguyclicker.io
+0.0.0.0 cookie-clicker2.com
+0.0.0.0 capybaragame.io
+0.0.0.0 azgames.io
+0.0.0.0 hahagames.com
+0.0.0.0 geometrydash.io
+0.0.0.0 baldigames.com
+0.0.0.0 taylorswift2048.io
+0.0.0.0 trap-thecat.com
+
 # Added Dec 11, 2024 
 0.0.0.0 chatgpt.com
 0.0.0.0 ww1.Scribi.io

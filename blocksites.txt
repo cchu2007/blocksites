@@ -18,6 +18,21 @@
 0.0.0.0 tenor.com
 0.0.0.0 www.gamejolt.net
 0.0.0.0 gamejolt.net
+0.0.0.0 slopeio.org
+0.0.0.0 www.slopeio.org
+0.0.0.0 holeio.com
+0.0.0.0 www.holeio.com
+0.0.0.0 sandtris.com
+0.0.0.0 www.sandtris.com
+0.0.0.0 lax1dude.net
+0.0.0.0 www.lax1dude.net
+0.0.0.0 shhnowisnottheti.me
+0.0.0.0 www.shhnowisnottheti.me
+0.0.0.0 arch.lol
+0.0.0.0 www.arch.lol
+0.0.0.0 www.croxyproxy.com
+0.0.0.0 www.youtubeunblocked.live
+
 
 # Added Jan 16, 2025
 0.0.0.0 1games.io

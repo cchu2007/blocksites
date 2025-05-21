@@ -14,6 +14,10 @@
 0.0.0.0 play.google.com
 0.0.0.0 www.play.google.com
 0.0.0.0 www.kodub.com
+0.0.0.0 www.tenor.com
+0.0.0.0 tenor.com
+0.0.0.0 www.gamejolt.net
+0.0.0.0 gamejolt.net
 
 # Added Jan 16, 2025
 0.0.0.0 1games.io

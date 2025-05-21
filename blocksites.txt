@@ -9,6 +9,10 @@
 0.0.0.0 www.gamepluto.com
 0.0.0.0 turboarp.org
 0.0.0.0 www.turboarp.org
+0.0.0.0 gamedistribution.com
+0.0.0.0 www.gamedistribution.com
+0.0.0.0 play.google.com
+0.0.0.0 www.play.google.com
 
 # Added Jan 16, 2025
 0.0.0.0 1games.io

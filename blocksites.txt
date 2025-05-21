@@ -13,6 +13,7 @@
 0.0.0.0 www.gamedistribution.com
 0.0.0.0 play.google.com
 0.0.0.0 www.play.google.com
+0.0.0.0 www.kodub.com
 
 # Added Jan 16, 2025
 0.0.0.0 1games.io

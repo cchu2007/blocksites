@@ -5,7 +5,12 @@
 # Added May 23, 2025
 0.0.0.0 deepl.com
 0.0.0.0 www.deepl.com
-
+0.0.0.0 subwaysurfers.world
+0.0.0.0 www.subwaysurfers.world
+0.0.0.0 Tumblr.com
+0.0.0.0 www.Tumblr.com
+0.0.0.0 leveldevil.io
+0.0.0.0 www.leveldevil.io
 
 # Added May 21, 2025
 0.0.0.0 roku.com

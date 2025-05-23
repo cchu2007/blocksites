@@ -2,6 +2,11 @@
 # Upload to update: https://github.com/cchu2007/blocksites
 # Content added to this list has been manually verified, and is updated irregularly
 
+# Added May 23, 2025
+0.0.0.0 deepl.com
+0.0.0.0 www.deepl.com
+
+
 # Added May 21, 2025
 0.0.0.0 roku.com
 0.0.0.0 www.roku.com

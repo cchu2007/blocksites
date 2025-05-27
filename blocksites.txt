@@ -2,6 +2,17 @@
 # Upload to update: https://github.com/cchu2007/blocksites
 # Content added to this list has been manually verified, and is updated irregularly
 
+# Added May 27, 2025
+0.0.0.0 azgame.io
+0.0.0.0 www.azgame.io
+0.0.0.0 nguh.org
+0.0.0.0 www.nguh.org
+0.0.0.0 stickmanhookgame.org
+0.0.0.0 www.stickmanhookgame.org
+0.0.0.0 geometrydashlitepc.io
+0.0.0.0 www.geometrydashlitepc.io
+
+
 # Added May 23, 2025
 0.0.0.0 deepl.com
 0.0.0.0 www.deepl.com

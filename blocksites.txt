@@ -2,6 +2,12 @@
 # Upload to update: https://github.com/cchu2007/blocksites
 # Content added to this list has been manually verified, and is updated irregularly
 
+# Added May 28, 2025
+0.0.0.0 disneyplus.com
+0.0.0.0 www.disneyplus.com
+0.0.0.0 q13x.com
+0.0.0.0 www.q13x.com
+
 # Added May 27, 2025
 0.0.0.0 azgame.io
 0.0.0.0 www.azgame.io

@@ -2,6 +2,9 @@
 # Upload to update: https://github.com/cchu2007/blocksites
 # Content added to this list has been manually verified, and is updated irregularly
 
+# Added May 29, 2025
+0.0.0.0 sites.google.com/view/drive-u-7-home
+
 # Added May 28, 2025
 0.0.0.0 disneyplus.com
 0.0.0.0 www.disneyplus.com

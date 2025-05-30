@@ -8,7 +8,6 @@
 0.0.0.0 azgame.io
 0.0.0.0 playhop.com
 0.0.0.0 ninjakiwifiles.com
-# 0.0.0.0 roll20.net
 0.0.0.0 btd6.com
 0.0.0.0 block-blast.io
 0.0.0.0 itch.zone
@@ -21,7 +20,6 @@
 0.0.0.0 www.azgame.io
 0.0.0.0 www.playhop.com
 0.0.0.0 www.ninjakiwifiles.com
-# 0.0.0.0 www.roll20.net
 0.0.0.0 www.btd6.com
 0.0.0.0 www.block-blast.io
 0.0.0.0 www.itch.zone
@@ -143,8 +141,6 @@
 0.0.0.0 www.leveldevil.io
 0.0.0.0 lagged.com
 0.0.0.0 www.lagged.com
-# 0.0.0.0 dndbeyond.com
-# 0.0.0.0 www.dndbeyond.com
 0.0.0.0 8games.net
 0.0.0.0 www.8games.net
 0.0.0.0 miniblox.online

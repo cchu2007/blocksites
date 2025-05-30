@@ -37,7 +37,7 @@
 0.0.0.0 azgame.io
 0.0.0.0 playhop.com
 0.0.0.0 poki-gdn.com
-0.0.0.0 gitlab.io
+0.0.0.0 *.gitlab.io
 0.0.0.0 goonapk.com
 0.0.0.0 gamepluto.com
 0.0.0.0 rosebud.ai

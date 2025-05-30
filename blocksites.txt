@@ -2,6 +2,34 @@
 # Upload to update: https://github.com/cchu2007/blocksites
 # Content added to this list has been manually verified, and is updated irregularly
 
+# Added May 30, 2025
+0.0.0.0 crazygames.com
+0.0.0.0 github.io
+0.0.0.0 azgame.io
+0.0.0.0 playhop.com
+0.0.0.0 ninjakiwifiles.com
+0.0.0.0 roll20.net
+0.0.0.0 btd6.com
+0.0.0.0 block-blast.io
+0.0.0.0 itch.zone
+0.0.0.0 minijuegosgratis.com
+0.0.0.0 freetetris.org
+0.0.0.0 tetris.com
+0.0.0.0 tamogames.com
+0.0.0.0 www.crazygames.com
+0.0.0.0 www.github.io
+0.0.0.0 www.azgame.io
+0.0.0.0 www.playhop.com
+0.0.0.0 www.ninjakiwifiles.com
+0.0.0.0 www.roll20.net
+0.0.0.0 www.btd6.com
+0.0.0.0 www.block-blast.io
+0.0.0.0 www.itch.zone
+0.0.0.0 www.minijuegosgratis.com
+0.0.0.0 www.freetetris.org
+0.0.0.0 www.tetris.com
+0.0.0.0 www.tamogames.com
+
 # Added May 29, 2025
 0.0.0.0 sites.google.com/view/drive-u-7-home
 0.0.0.0 crazygames.com

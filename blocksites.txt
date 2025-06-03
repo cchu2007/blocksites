@@ -2,6 +2,61 @@
 # Upload to update: https://github.com/cchu2007/blocksites
 # Content added to this list has been manually verified, and is updated irregularly
 
+# Added June 03, 2025
+0.0.0.0 github.iote
+0.0.0.0 crazygames.com
+0.0.0.0 github.io
+0.0.0.0 azgame.io
+0.0.0.0 playhop.com
+0.0.0.0 gitlab.io
+0.0.0.0 poki-gdn.com
+0.0.0.0 goonapk.com
+0.0.0.0 gamepluto.com
+0.0.0.0 rosebud.ai
+0.0.0.0 minijuegosgratis.com
+0.0.0.0 bitent.com
+0.0.0.0 dndbeyond.com
+0.0.0.0 gameanalytics.com
+0.0.0.0 slope3.com
+0.0.0.0 roll20.net
+0.0.0.0 gameslol.net
+0.0.0.0 yup7.com
+0.0.0.0 funnygames.org
+0.0.0.0 play-games.com
+0.0.0.0 itch.zone
+0.0.0.0 now.gg
+0.0.0.0 ludo.ai
+0.0.0.0 ninjakiwifiles.com
+0.0.0.0 q13x.com
+0.0.0.0 frvr.com
+0.0.0.0 tetris.com
+0.0.0.0 block-blast.io
+0.0.0.0 gamearter.com
+0.0.0.0 infinitecraftrecipes.io
+0.0.0.0 btd6.com
+0.0.0.0 freetetris.org
+0.0.0.0 game.city
+0.0.0.0 aminoapps.com
+0.0.0.0 jitter.video
+0.0.0.0 minefun.io
+0.0.0.0 peppagame.com
+0.0.0.0 arkadiumhosted.com
+0.0.0.0 papas-freezeria.io
+0.0.0.0 primarygames.com
+0.0.0.0 firstpersontetris.com
+0.0.0.0 addictinggames.com
+0.0.0.0 upit.com
+0.0.0.0 gameforge.com
+0.0.0.0 azgames.io
+0.0.0.0 yad.com
+0.0.0.0 kizicdn.com
+0.0.0.0 slopeonline.online
+0.0.0.0 fallguys.onl
+0.0.0.0 tamogames.com
+0.0.0.0 geometrydash-lite.io
+0.0.0.0 culinaryschools.org
+0.0.0.0 codashop.com
+
 # Added June 02, 2025
 0.0.0.0 github.io
 0.0.0.0 gamejolt.net

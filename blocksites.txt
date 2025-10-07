@@ -2,6 +2,34 @@
 # Upload to update: https://github.com/cchu2007/blocksites
 # Content added to this list has been manually verified, and is updated irregularly
 
+# Added October 07, 2025
+0.0.0.0 autoclicker.org
+0.0.0.0 2games.io
+0.0.0.0 retrobowl4classroom.com
+0.0.0.0 flappybird2d.com
+0.0.0.0 galaxy.click
+0.0.0.0 cpstest.org
+0.0.0.0 rapidtables.com
+0.0.0.0 clickspeedtester.com
+0.0.0.0 twoodo.com
+0.0.0.0 curverush.com
+0.0.0.0 escaperoad2.io
+0.0.0.0 escaperoad2d.io
+0.0.0.0 smashy-road.io
+0.0.0.0 escaperoad-2.github.io
+0.0.0.0 escaperoad.org
+0.0.0.0 traffically.io
+0.0.0.0 shadybears.net
+0.0.0.0 snowrider3d.com
+0.0.0.0 drippy-cat.github.io
+0.0.0.0 snowriderfree.github.io
+0.0.0.0 snow-rider3d.io
+0.0.0.0 snowridergame.io
+0.0.0.0 lekug.github.io
+0.0.0.0 nargames.com
+0.0.0.0 golfhitgame.org
+0.0.0.0 golf-hit.io
+
 # Added June 03, 2025
 0.0.0.0 github.iote
 0.0.0.0 crazygames.com

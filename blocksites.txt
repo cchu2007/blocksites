@@ -2,6 +2,22 @@
 # Upload to update: https://github.com/cchu2007/blocksites
 # Content added to this list has been manually verified, and is updated irregularly
 
+# Added December 03, 2025
+0.0.0.0 particle-clicker.web.cern.ch
+0.0.0.0 www.particle-clicker.web.cern.ch
+
+# Added November 03, 2025
+0.0.0.0 wacky-flip.com
+0.0.0.0 hahagames.com
+0.0.0.0 snow-rider.io
+0.0.0.0 leveldevilnotatrollgame.io
+0.0.0.0 leveldevil2.io
+0.0.0.0 leveldevildash.com
+0.0.0.0 leveldevil2.online
+0.0.0.0 leveldevil.io
+0.0.0.0 level-devil.io
+0.0.0.0 leveldevil-2.com
+
 # Added October 07, 2025
 0.0.0.0 autoclicker.org
 0.0.0.0 2games.io

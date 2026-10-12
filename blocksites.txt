@@ -2,6 +2,10 @@
 # Upload to update: https://github.com/cchu2007/blocksites
 # Content added to this list has been manually verified, and is updated irregularly
 
+# Added October 12, 2026
+0.0.0.0 lens.google.com
+0.0.0.0 www.lens.google.com
+
 # Added December 03, 2025
 0.0.0.0 particle-clicker.web.cern.ch
 0.0.0.0 www.particle-clicker.web.cern.ch

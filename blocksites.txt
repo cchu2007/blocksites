@@ -7,7 +7,9 @@
 0.0.0.0 lens.google.com
 0.0.0.0 www.lens.google.com
 0.0.0.0 generativeai.google.com
-0.0.0.0 generativeai.google.com
+0.0.0.0 www.generativeai.google.com
+0.0.0.0 gemini.google.com
+0.0.0.0 www.gemini.google.com
 
 # Added December 03, 2025
 0.0.0.0 particle-clicker.web.cern.ch
